@@ -1,0 +1,9 @@
+[submodule "lib/E4S"]
+	path = lib/E4S
+	url = https://github.com/bram3/E4S.git
+[submodule "lib/ESPAsyncWebServer"]
+	path = lib/ESPAsyncWebServer
+	url = https://github.com/me-no-dev/ESPAsyncWebServer.git
+[submodule "lib/AsyncTCP"]
+	path = lib/AsyncTCP
+	url = https://github.com/me-no-dev/AsyncTCP.git
